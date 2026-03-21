@@ -6,8 +6,8 @@
 
 WiFiClient wifiClient;
 ThingsBoard tb(wifiClient);
-const char* ssid = "shivam";
-const char* password = "pikuojha";
+const char* ssid = "wifiname";
+const char* password = "wifipassword";
 const char* tbHost = "demo.thingsboard.io";
 const char* tbToken = "ObX2vin01s4ylxjMGJxT";
 
